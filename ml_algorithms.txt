@@ -1,0 +1,32 @@
+MACHINE LEARNING ALGORITHMS
+
+Classification
+Clustering
+Regression
+
+
+CLASSIFICATION ALGORITHM: 
+
+Ensemble algorithm: It combines several machine learning techniques to create on predictive model inorder to reduce bias, variance or improve predictions. Example; Movie ratings.
+
+Naive Bayes algorithm: This technique is based on Bayes Theorem. The algorithm assumes that a particular feature is independent of all other features in the dataset.  Example; Spam filtering
+
+Decision Trees: This algorithm is used to solve both classification and regression problems. It predicts the value of the target variable by learning simple decision rules
+
+
+CLUSTERING ALGORITHMS
+
+Kmeans Clustering is an iterative algorithm that splits the dataset into clusters where each datapoint belongs to only one group. Example; Analyzing the spending habit of credit card users
+
+Mean Shift Clustering shifts each point in the dataset until its at the top of the nearest KDE(Kernel Density Estimation) surface peak. Example; Image segmentation
+
+Gaussian Mixture Models groups data points belonging to a single distribution together
+
+
+REGRESSION ALGORITHMS
+
+Simple Linear Regression: This is used to study relationships between two continuous variables. Example; Real Estate Pricing
+
+Logistic Regression: Describes the relationship between one dependent binary variable and one or more nominal or ordinal independent variables. Example; Credit Card Fraud Detection
+
+Multiple Linear Regression models the relationship between two or more features and a response by fitting a linear equation to observed data
